@@ -1,7 +1,7 @@
 # Les17
 Docker-compose
 
-1. Встановив Docker на вашій системі:
+1. Встановив Docker на системі:
 ![Docker_install](https://github.com/user-attachments/assets/67fd134f-7d8b-41bb-8331-efeb752bc7ba)
 
 2. Створив файл docker-compose.yml з трьома сервісами webserver, database та cache.
